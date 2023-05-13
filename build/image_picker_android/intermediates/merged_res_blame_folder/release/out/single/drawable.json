@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Grad Folder\\!latest\\MyFitnessPal\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\LWP\\.gradle\\caches\\transforms-3\\005627934cb5de51d804cd3c597f8200\\transformed\\core-1.8.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Grad Folder\\!latest\\MyFitnessPal\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\LWP\\.gradle\\caches\\transforms-3\\005627934cb5de51d804cd3c597f8200\\transformed\\core-1.8.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Grad Folder\\!latest\\MyFitnessPal\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\LWP\\.gradle\\caches\\transforms-3\\005627934cb5de51d804cd3c597f8200\\transformed\\core-1.8.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Grad Folder\\!latest\\MyFitnessPal\\build\\image_picker_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\LWP\\.gradle\\caches\\transforms-3\\005627934cb5de51d804cd3c597f8200\\transformed\\core-1.8.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]
